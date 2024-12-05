@@ -1,3 +1,5 @@
 numpy
-turtle
 drawsvg
+pillow
+scipy
+scikit_learn
